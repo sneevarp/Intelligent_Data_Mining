@@ -1,0 +1,34 @@
+E:\Office\Techno Info Solution\Projects\Joint Segmentation\Joint Segmentation\bin\Joint Segmentation.dll
+E:\Office\Techno Info Solution\Projects\Joint Segmentation\Joint Segmentation\bin\Joint Segmentation.pdb
+E:\Office\Techno Info Solution\Projects\Joint Segmentation\Joint Segmentation\bin\AxInterop.LTMMLib.dll
+E:\Office\Techno Info Solution\Projects\Joint Segmentation\Joint Segmentation\bin\OpenNLP.dll
+E:\Office\Techno Info Solution\Projects\Joint Segmentation\Joint Segmentation\bin\SharpEntropy.dll
+E:\Office\Techno Info Solution\Projects\Joint Segmentation\Joint Segmentation\obj\Debug\Joint Segmentation.dll
+E:\Office\Techno Info Solution\Projects\Joint Segmentation\Joint Segmentation\obj\Debug\Joint Segmentation.pdb
+E:\Web\Joint Segmentation\Joint Segmentation\bin\Joint Segmentation.dll
+E:\Web\Joint Segmentation\Joint Segmentation\bin\Joint Segmentation.pdb
+E:\Web\Joint Segmentation\Joint Segmentation\bin\AxInterop.LTMMLib.dll
+E:\Web\Joint Segmentation\Joint Segmentation\bin\OpenNLP.dll
+E:\Web\Joint Segmentation\Joint Segmentation\bin\SharpEntropy.dll
+E:\Web\Joint Segmentation\Joint Segmentation\obj\Debug\Joint Segmentation.dll
+E:\Web\Joint Segmentation\Joint Segmentation\obj\Debug\Joint Segmentation.pdb
+E:\Web\Joint Segmentation\Joint Segmentation\obj\Debug\Joint Segmentation.csprojResolveAssemblyReference.cache
+C:\Users\Shamee\Desktop\Joint Segmentation\Joint Segmentation\bin\Joint Segmentation.dll
+C:\Users\Shamee\Desktop\Joint Segmentation\Joint Segmentation\bin\Joint Segmentation.pdb
+C:\Users\Shamee\Desktop\Joint Segmentation\Joint Segmentation\bin\AxInterop.LTMMLib.dll
+C:\Users\Shamee\Desktop\Joint Segmentation\Joint Segmentation\bin\OpenNLP.dll
+C:\Users\Shamee\Desktop\Joint Segmentation\Joint Segmentation\bin\SharpEntropy.dll
+C:\Users\Shamee\Desktop\Joint Segmentation\Joint Segmentation\obj\Debug\Joint Segmentation.csprojResolveAssemblyReference.cache
+C:\Users\Shamee\Desktop\Joint Segmentation\Joint Segmentation\obj\Debug\Joint Segmentation.dll
+C:\Users\Shamee\Desktop\Joint Segmentation\Joint Segmentation\obj\Debug\Joint Segmentation.pdb
+G:\Project\project\Joint Segmentation\Joint Segmentation\bin\Joint Segmentation.dll
+G:\Project\project\Joint Segmentation\Joint Segmentation\bin\Joint Segmentation.pdb
+G:\Project\project\Joint Segmentation\Joint Segmentation\bin\AxInterop.LTMMLib.dll
+G:\Project\project\Joint Segmentation\Joint Segmentation\bin\Microsoft.Office.Interop.Word.dll
+G:\Project\project\Joint Segmentation\Joint Segmentation\bin\OpenNLP.dll
+G:\Project\project\Joint Segmentation\Joint Segmentation\bin\SharpEntropy.dll
+G:\Project\project\Joint Segmentation\Joint Segmentation\bin\Microsoft.Vbe.Interop.dll
+G:\Project\project\Joint Segmentation\Joint Segmentation\bin\Microsoft.Office.Interop.Word.xml
+G:\Project\project\Joint Segmentation\Joint Segmentation\obj\Debug\Joint Segmentation.csprojResolveAssemblyReference.cache
+G:\Project\project\Joint Segmentation\Joint Segmentation\obj\Debug\Joint Segmentation.dll
+G:\Project\project\Joint Segmentation\Joint Segmentation\obj\Debug\Joint Segmentation.pdb
